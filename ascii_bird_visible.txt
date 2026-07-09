@@ -1,0 +1,51 @@
+MM#M@#@M@@M@@M##M##MMMM@###@MM###@@@       M#@#MMM@####M@@M#M@#MMMMM#MMMM#MM#M@#@####
+M##@@MM#MM@##M@##M###@#                        ##MM#@#M@#M@@@#@MM##@@@M#M@@@###M##MMM
+#@#@MM#@@M#@#@@#@#M    MM#MM##MM#@@#Hm;;|Ljm@MM   #MMMMM#@##@M##@@MM#M#@M@@@@@##@@MM#
+@MMM#@MMM@M##@@#M   #mLm|%m@w%]][L;%%k]m;;%Hw%Lj@#   @MM#MMMM@M@#M@#MMM#@@@M#M@MM@#M@
+M#@@#@@#M##MM#@M@ #;@%;mL@|[mH||H;wkk[j%@H]mk@[;%;|@@   #@#M#M##@@#@M#MM@####@#M@@M@#
+#MM#@@M@#M#M@M#M  w||ww]|@]wHm|m@Hk@;kL[%|jk]@@@;kj[[]M#  #@MM@@@@#@MM@@@M@####@MMMM@
+#@MM@##@M@M#MM@M M%L;;[;%[;]]k@wm]mL|]m[@%@[;][LH;Hkkk;@##  @##M##@M@MMM#@###MM##@M@#
+M@M@@@@@###@@##  j%@|@;jjHm]@Lm]@%|%@|%@m%mjLmjjLj]|wHw[j|  #@MM#@#@MMMM@@#@#MMM#M##@
+MM#@#@@M@@@@M#  M@%j@]@Hk[kHk]%@[%%jmL]j;mjj]]|H%jk%]L|%j;@ ##M@M#@@M#M@#M@#@@@@@@##@
+##@#@#@###M@M# @mmH][||%L[@w]wk|;mw]]k|;Hw;][H]]H]k@;Hw[;w@ MMM@@#@@#@@##@@@@@#MM@#M#
+@#@@M@@@@@@M#  M];Hk;|mLHw;]@;[L;]w%L@];]]j||%wHk[@Hw%j[jwm ##@MM###MM#@M@#@M#M##@##M
+#@@#@@MM@M#MM Mk|LH|wHM@L@H|kkkH%LLLLM#wm%@HjkL]%[%[jk@m|m]# M#MMM@##@##@@@###@M@#@#@
+@@@@MM##@##M #||;]|mL  @m%H|j]@@k@L%#  M;kH;;Lm]j;kHw]jLL@k@ @#@##M#M@#M#@M#@#MM@M#M#
+@###M#M###M  %HwmjL]M  #w[j%Hwmk%w@L#  M;%w|w];Lww;;j%Hkm;;]  @##MM###@@#M##@#@MMM#@#
+M#M#@###MM# #%|w]Hjm[  #;[j]]Lm%jk;H#  M%[%kjkLj]%[;m]%%]j[j# #MM@#@MM##@@#M@MM@#M##M
+@@M@#@#MM@ @wL@[|[[L@M#w]|mw@;wLj%@%j@#H]Hw%[[]j]mj[;H;]w@H|;  ####@MMMM@##@M@#@@M@##
+MM@MM#MM# Mm@;]|wjLk%kk]@jw;@mwH@|k|%mwj|@|w[L@j@]|w%km];|][j@  ##@#M##@@@@@M#@M##@MM
+##@@M@@M  %L|@;wkmHm@;@|j%]H|[||]Lwk%ww[w;m]L[%;jwww|]Hwj;@[|L@  #MM@M#M@@MMM#@@#M#M@
+MM#@@@@M @kw;ww;;w|j]|LLjH@@m#M@@#@#%]H%m[@%w]LH];LHjwmjk@HLwLH@  M@##@M#####M@@#M@@@
+MMM@M@# @]m]%;[]L]%[MMM#@#@            #k|L@L|][|k[@H%|%%@;m[m@LM   #M@MM@#@MM#@M#@MM
+MM@@@@ @]|;j%;m%kL@#;[[@wkw;|w]jw[w@  @m%kLLm%;LL|ww;m|wHLmjk@;|w#    @M@#@M#M#M@@MM@
+@##@# #|H%]H;j@H;m#|@LL;HwL%]%][m|M @m;|j[wLkLHL[w]@m]@j[kk;L|;H]]j   MM@@M#M#@@#M@#@
+#@M# #L@HH|L%@HH;wmMm@mH;[L|m;mw;# #wwHk|@Hw[;mLH%]kL[w%]j;[;m%jL@M  @#@M@@M@M@@M#M@#
+@#   ;][;jk|LLHL|;Lk#jkw%w;kkkL# Mk;|km;@%wj[[%]m]Hmk|mj%jwkwLmHHkM @MM#MMM#@M@#M@M##
+@   @mL%k;m[kk;%w]|L[#ww|kHH[;#M#[m|jj[]wj]wmk;@[|HHL][m|@@];j[@w@  M#MM#@@#M##M#M#MM
+M   mLj;@@%km@j]]wm[mL@Hj@;jM@#mmkk;||LmjHH]k|k%kLL;wjj;[w@w;]jwk# M   MM@@###@M@@#@@
+##  M||jk[j[@m]j;jLL@[k#Mk#M#w@mk%mk|[mm|Lw|@|[mjw[[@]jmj|j;w|[LM #||#   #M#MMM@M@M@@
+###  MLL|HH[k;]]j%wkw];%# M%[]H%%%k;|jk|][@k%w%HLmkH;kw[[Lwm]w@@ @;@Hw]M@  #M#MM@##M#
+#@@#  @@wL[kw%|Lw;|;kwwwj@@]|;;|%wwkLk@[%H]m|wkk%H;[;%jL;@][;[@ Mw|mHL|k[@  M#MMM#@##
+@M@#@   #|LLj;mmwmwj[%wL[|]w%m[;HL]@|L@|k%wmjLk[HHk@H%%[%H;wH# M|@@LLjmm@]M MMM@M@#@M
+MM@M@@@  @#H@|%[wm@km]L|mjH;kjHkkkjL%LH|m%|%HwH[H[@%LjHm[k@wM#HH@kLHLm%kw];  MMM@M@MM
+MM##MMM@   @];]m|L%|@j;]@j;]]k[]|H%[@jjmL][w[]wmmHj%@m[wm@mkm;;;;w[m%%H;H[w@ @#@##MM@
+#M#####  @@M #[%k%m|];%kmjL[mw;[;jmw[wLj;;%;m@LL%|[@Hj%%H]]mw%@LH[@L@H|#MM[jM @M#M@@M
+##@#@@M #%@%kM@#%%@jkH%kw%;wHj[]]m;wwj;|;@wL%L|H%j@w%%@kj@]L%mw%Hm%w|wHjMM|mw @@M@M@M
+#M#@#M #;km%kjLHM;|w@LL@j;|[L@j||H[%|]H]H;%m|LwLj][[L|mkj;jkw%%m%@;;LL[]%M@]k# M#@@@@
+MM#M# M|]mkL@]w[;@k;[H[%]%;H[[Hk[@mm@]kk];Hm|m;wHj[]k%w@@w|m]jLm]|@L|%Lk]@@%L]M @@###
+#MMM  M[%%jj|[m;]L|jH%@jw[@;k%@k%j;jLmj[;|j|jm;Hkw]m;wLk@]|jm@[m@k[mj;H;[w;@k%;@  M@@
+@M## M%@[@HkL[;%m|;[[L|%jkL@]w[H|;%;jwwL;j]m%j;Hkm]@jk;@k%]mj[k]HLjm%m;mk@%#@kjH   @M
+M##  @;];wkL][LH;jL%LH[%|mH|%|Hk@L%;;]j;]k]k;L|mj[mL];mw;m[|j;];H|Hk]m[jjm[# @;mM  @#
+@##  %%mL%w]Hkk[||mk[|jL[wk[|Hw@w|kmLLk|HwL;@]%@mk;;|mjk[|]wjkwkj@;mj;[|H@]w  ]jw@  @
+@#  M[@m;L]wwHm[]@m%km[[kLjL@[]%[H[@[[m;]mH%kHm%]];L@k;@H@M]mHmkj@|[Lkm;j]|jM Mm@@ #M
+#@  M;mLw]j|j[[[]LL@%L|;[w|k@[|j;||]@@];wj]|]wHLL]wwj@m]%@# @@[k]HL%mLw@kkL%# #L# @@#
+#M  @@|wj|k;;w%][%mH@|kwkwjk%[]k]jL@L]@k];[%@HmwL;@HmH[wkwm#  M@wk@w%HjmHk|mM #@  ##@
+#   @[|;]kHw|kw%]|m]H@L%[j@L;k|HL@k@]k@k|%j||H@@[]wHww]kH[@[m#M  @@Hm[%kkw[%# @# MM@M
+##  #wk@H[;;[];LwHk[[@mw;mwk];@kmjm|H@L%@|L[w]LHj@wmmj[@m@w@L|mLM#@ M#M%w%[@M@M MM###
+M@   jLHj|];]%;@@kjw[[kjkHLLH|wLLm;%|H;][kmwLk[w|LkmL%]|w]w]|;j;%;jm@##M@#M@@M ##@M#@
+@#M  M[m%%[L]|;m||HL;L%@]|LLm]wmL|;[kL[;%[jm;j|%jLk|j;|Lw]m%L@H@m[[[j%|]%wm]M @MM####
+@##   #jH]wwmjj;]%]k%HH@m;k;mj[m|mmjLL|L;k]@]L]H]kLLmkmL]]kL%mLH@L]]m]LH%|]@ MMMMMMMM
+M###  #m;];Hjjmk|wH%mkLLm[;HL[Lww[k@m%LH%mLHHw%%[kj%k]mLmLm@;|wHkkk]j@||HH# ##MMM@@@@
+#M@M#  #]%%;k|]@w|%j@L;mH;j@jHk;k;j;LHH;jHLw@|mLj;@@|w[[HwHLH|k];k@@[m|%[@ M@@#@MM@@M
+#MM@MMM M#M@#MM@#@@MMMM#M##@MM@#@M@MMM#MMM@M#M@##@@@MM##@@M@@#@@##M#M@@@M #M#M@@@#@##
