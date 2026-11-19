@@ -6,7 +6,7 @@ from lxml import etree
 import time
 import hashlib
 
-# Fine-grained personal access token with All Repositories access:
+# Fine-grained personal access token with All Repositories access: Restricted
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
